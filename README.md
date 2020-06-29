@@ -1,6 +1,6 @@
 # Azure Kubernetes Service Custom Application Log Demo
 
-This ia a sample php application with Dockerfile and Kubernetes IaC to demonstrate Azure Monitor for containers in AKS for custom application logs.
+This is a sample php application with Dockerfile and Kubernetes IaC to demonstrate Azure Monitor for containers in AKS for custom application logging.
 
 Azure Monitor for containers collects stdout and stderr from container workloads deployed to AKS (or ACI). 
 
